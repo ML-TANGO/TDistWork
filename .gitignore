@@ -1,0 +1,8 @@
+**/_pyenv
+
+**/data/*/
+**/__pycache__
+
+kaggle.json
+ckpt_densenet201.pt
+*.zip

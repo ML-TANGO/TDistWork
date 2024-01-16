@@ -1,0 +1,11 @@
+ip_list:
+  - 192.168.3.2
+  - 192.168.3.3
+  - 192.168.3.4
+
+username: { jetson username }
+password: { jetson password }
+display: :0
+token: { git token }
+repository: { git repository }
+port: 9882

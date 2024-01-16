@@ -1,0 +1,8 @@
+pyside6 # GPL 3.0
+pyyaml # MIT
+paramiko # LGPL v2.1
+ansi2html # GPL v3.0
+pyqt5 # GPL 3.0
+
+# Development
+black # MIT
